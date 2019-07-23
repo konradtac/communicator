@@ -1,0 +1,9 @@
+c:\users\konrad\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\konrad\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\konrad\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\konrad\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.Form1.resources
+c:\users\konrad\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\konrad\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\konrad\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\konrad\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
